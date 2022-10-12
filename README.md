@@ -1,10 +1,10 @@
-# Прогнозирование заказов такси
+# Forecasting taxi orders
 
-*Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час.*
+*The Clear Taxi Company has collected historical data on taxi orders at airports. In order to attract more drivers during the peak period, it is necessary to predict the number of taxi orders in the next hour.*
 
-## Описания проекта
+## Description of the project
 
 
-| Название проекта | Описание | Используемые библиотеки | 
-| :---------------------- | :---------------------- | :---------------------- |
-| [Прогнозирование заказов такси](computer-games) |Нужно построить модель для предсказания количество заказов такси на следующий час| *pandas, sklearn, numpy, catboost, statsmodels, matplotlib* |
+| Project name | Description | Used Libraries |
+| :--------------------- | :--------------------- | :--------------------- |
+| [Predicting taxi orders](https://github.com/limenbah/taxi-orders/tree/main/taxi-orders) |Need to build a model to predict the number of taxi orders for the next hour| *pandas, sklearn, numpy, catboost, statsmodels, matplotlib* |
